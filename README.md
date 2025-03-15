@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YokeshD99
+- 👋 Hi, I’m Yokesh Dhanabal (@Yogi-hub)
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning Msc in Artificial Intelligence and Engineering Systems
 - 📫 You can reach me via yokeshmd99@gmail.com
