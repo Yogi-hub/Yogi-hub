@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @YokeshD99
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning Msc in Artificial Intelligence and Engineering Systems
-- 💞️ I’m looking to collaborate on ..
 - 📫 You can reach me via yokeshmd99@gmail.com
 - 😄 Pronouns: Yogi
 - ⚡ Fun fact: I love to cook, play tennis. Can also play Piano.
